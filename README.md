@@ -40,7 +40,6 @@ Here there was use of *gensim.model.Word2Vec.most_similar* and I referred the [d
 
 <br>
 
-
 ### Outputs from my code
 
 ![Screenshot 2024-12-25 103726](https://github.com/user-attachments/assets/47c2f784-770e-49d0-8e5f-f42ea38d6e29)
