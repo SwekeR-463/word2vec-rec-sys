@@ -36,6 +36,11 @@ def recommend_anime_by_genre(genre):
 ```
 <br>
 
+Here there was use of *gensim.model.Word2Vec.most_similar* and I referred the [docs](https://tedboy.github.io/nlps/generated/generated/gensim.models.Word2Vec.most_similar.html). It finds top-N most similar words. 
+
+<br>
+
+
 ### Outputs from my code
 
 ![Screenshot 2024-12-25 103726](https://github.com/user-attachments/assets/47c2f784-770e-49d0-8e5f-f42ea38d6e29)
